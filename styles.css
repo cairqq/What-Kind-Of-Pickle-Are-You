@@ -1,0 +1,66 @@
+body {
+    font-family: "Cute Font", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 50px;
+    background-color: #B9C8BC;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+
+
+
+.chips {
+    display: none;
+}
+
+.segg {
+    display: none;
+}
+
+.sgarlic {
+    display: none;
+}
+
+.dill {
+    display: none;
+}
+
+.jala {
+    display: none;
+}
+
+.olive {
+    display: none;
+}
+
+.chamoy {
+    display: none;
+}
+
+.disney {
+    display: none;
+}
+
+.hm {
+    display: none;
+}
+
+.hs {
+    display: none;
+}
+
+.pf {
+    display: none;
+}
+
+.countmsg {
+    font-size: 34px;
+}
